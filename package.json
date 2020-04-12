@@ -2,7 +2,6 @@
   "name": "wasap",
   "version": "0.0.1",
   "description": "wasap CLI",
-  "private": true,
   "types": "build/types/types.d.ts",
   "bin": {
     "wasap": "bin/wasap"

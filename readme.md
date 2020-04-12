@@ -7,7 +7,7 @@ A CLI to send nuch messages easily
 run
 
 ```shell
-yarn add wasap
+yarn global add wasap
 ```
 
 ## Sending messages
