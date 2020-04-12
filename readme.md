@@ -1,6 +1,6 @@
 # wasap CLI
 
-A CLI to send nuch messages easily
+A CLI to send bunch of messages easily
 
 ## Installing
 
